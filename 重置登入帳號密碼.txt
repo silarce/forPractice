@@ -1,0 +1,4 @@
+在GIT bash 裡輸入
+git config --system --unset credential.helper
+與
+git config --global credential.helper store
